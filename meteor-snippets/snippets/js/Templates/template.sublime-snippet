@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Template.${2}
+]]></content>
+	<tabTrigger>tpr</tabTrigger>
+	<scope>source.js</scope>
+	<description>Template</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+{{#unless ${1:image}}}
+  ${2:...}
+{{/unless}}
+]]></content>
+  <tabTrigger>un</tabTrigger>
+  <scope>text.html,text.htm</scope>
+  <description>Meteor {{#unless}}</description>
+</snippet>

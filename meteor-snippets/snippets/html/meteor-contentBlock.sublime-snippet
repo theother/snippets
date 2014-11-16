@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+{{> Template.contentBlock}}
+]]></content>
+  <tabTrigger>cb</tabTrigger>
+  <scope>text.html,text.htm</scope>
+  <description>Meteor Custom Block Helper</description>
+</snippet>

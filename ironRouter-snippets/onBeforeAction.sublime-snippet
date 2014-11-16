@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+onBeforeAction: function () {
+  ${1:this.next();}
+},
+]]></content>
+  <tabTrigger>onBeforeAction</tabTrigger>
+  <scope>source.js</scope>
+  <description>Called before the route or "action" function is run</description>
+</snippet>

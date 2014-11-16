@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+${1:page}_Controller = RouteController.extend({
+  action: function () {
+    this.render()
+  } 
+});
+]]></content>
+  <tabTrigger>RoutController</tabTrigger>
+  <scope>source.js</scope>
+  <description>Create a custom RouteController</description>
+</snippet>

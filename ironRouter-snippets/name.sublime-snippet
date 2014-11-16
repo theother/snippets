@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+name: '${1:home}${2:.link}',
+]]></content>
+  <tabTrigger>nameRouter</tabTrigger>
+  <scope>source.js</scope>
+  <description>Name of the route</description>
+</snippet>

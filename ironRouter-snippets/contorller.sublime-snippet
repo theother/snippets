@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+controller: '${1:page}_${2:Controller}',
+]]></content>
+  <tabTrigger>controllerRouter</tabTrigger>
+  <scope>source.js</scope>
+  <description>provide a specific RouteController</description>
+</snippet>

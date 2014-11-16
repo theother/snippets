@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+Router.configure({
+  layoutTemplate: '${1:MasterLayout}',
+  loadingTemplate: '${2:Loading}',
+  notFoundTemplate: '${3:NotFound}'
+});
+]]></content>
+  <tabTrigger>Router.configure</tabTrigger>
+  <scope>source.js</scope>
+  <description>Default layout template for all routes</description>
+</snippet>

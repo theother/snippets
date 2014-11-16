@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+{{#with ${1:data-context}}}
+  ${2:...}
+{{/with}}
+]]></content>
+  <tabTrigger>wi</tabTrigger>
+  <scope>text.html,text.htm</scope>
+  <description>Meteor {{#with}}, define data-context</description>
+</snippet>

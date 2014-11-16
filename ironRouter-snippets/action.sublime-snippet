@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+action: function () {
+  ${1:this.render();}
+},
+]]></content>
+  <tabTrigger>action</tabTrigger>
+  <scope>source.js</scope>
+  <description>Makes action happen</description>
+</snippet>

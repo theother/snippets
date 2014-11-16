@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+onRerun: function () {
+  ${1:this.next();}
+},
+]]></content>
+  <tabTrigger>onRerun</tabTrigger>
+  <scope>source.js</scope>
+  <description> Called if the route reruns because computation is invalidated</description>
+</snippet>

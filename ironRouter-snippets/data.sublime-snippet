@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+data: function () {
+  return ${1:Posts.findOne({_id: this.params._id});}
+},
+]]></content>
+  <tabTrigger>data</tabTrigger>
+  <scope>source.js</scope>
+  <description>Sets the data context</description>
+</snippet>

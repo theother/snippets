@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+waitOn: function () {
+  return ${1:Meteor.subscribe('post', this.params._id);}
+},
+]]></content>
+  <tabTrigger>data</tabTrigger>
+  <scope>source.js</scope>
+  <description>Waits on return subscription</description>
+</snippet>

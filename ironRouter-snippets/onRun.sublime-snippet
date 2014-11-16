@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+onRun: function () {
+  ${1:MasterLayout}
+},
+]]></content>
+  <tabTrigger>onRun</tabTrigger>
+  <scope>source.js</scope>
+  <description>Called when the route is first run</description>
+</snippet>

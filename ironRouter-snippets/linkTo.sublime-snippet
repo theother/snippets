@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+{{#linkTo route="${1:post.link}" class="${2:my-cls}"}}
+  ${3:}
+{{/linkTo}}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>linkTo</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>

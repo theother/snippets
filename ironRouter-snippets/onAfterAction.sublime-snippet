@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+onAfterAction: function () {
+  ${1:this.next();}
+},
+]]></content>
+  <tabTrigger>onAfterAction</tabTrigger>
+  <scope>source.js</scope>
+  <description>Called after your route/action function has run</description>
+</snippet>

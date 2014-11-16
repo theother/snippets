@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+onStop: function () {
+  ${1:this.next();}
+},
+]]></content>
+  <tabTrigger>onStop</tabTrigger>
+  <scope>source.js</scope>
+  <description>Called when the route is stopped, typically right before a new route is run.</description>
+</snippet>

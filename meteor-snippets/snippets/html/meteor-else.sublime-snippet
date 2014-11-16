@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+{{else}}
+]]></content>
+  <tabTrigger>el</tabTrigger>
+  <scope>text.html,text.htm</scope>
+  <description>Meteor {{else}}</description>
+</snippet>

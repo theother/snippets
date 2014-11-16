@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+registerHelper('${1:name}', function () {
+  ${2}
+});
+]]></content>
+	<tabTrigger>registerHelper</tabTrigger>
+	<scope>source.js</scope>
+	<description>Helper function which can be used from all templates</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+TimelineMax();
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>TimelineMax</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <description>GSAP - TimelineMax</description>
+  <scope>source.js</scope>
+</snippet>

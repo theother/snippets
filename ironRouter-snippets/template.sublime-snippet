@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+template: '${1:page}_${2:Controller}',
+]]></content>
+  <tabTrigger>templateRouter</tabTrigger>
+  <scope>source.js</scope>
+  <description>Specifies a template to use</description>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+Router.route('/${1:home}', {
+  name: '${2:page}'.link,
+  template: '{4:page}'_Template,
+  controller: '${5:page}'_Controller
+});
+
+]]></content>
+  <tabTrigger>Router.route</tabTrigger>
+  <scope>source.js</scope>
+  <description>Create new route</description>
+</snippet>

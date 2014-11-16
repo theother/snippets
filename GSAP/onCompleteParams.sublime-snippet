@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+onCompleteParams:['${1:param1}', ${2:'${3:param2}'}]
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>onCompleteParams</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <description>GSAP - paramaters for onComplete function call</description>
+  <scope>source.js</scope>
+</snippet>
